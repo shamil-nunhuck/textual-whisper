@@ -77,7 +77,7 @@ body[dir=ltr] .time {
 	text-shadow: #fff 0px 1px;
 	font-weight: bold;
 	margin-right: 10px;
-	line-height: 30px;
+	line-height: 20px;
 	font-style: normal;
 	text-align: right;
 }
@@ -239,7 +239,7 @@ body div[ltype*=privmsg] .sender {
 	width:134px;
 	text-shadow: #fff 0px 1px; 
 	background-color: #eee;
-	min-height:30px;
+	min-height:20px;
 	border-right: 1px solid #dcdcdc;
 	padding-right:5px;
 	text-align:right;
@@ -367,8 +367,8 @@ body span.message{
 	padding-left: 150px;
 	display:table-cell;
 	vertical-align: middle;
-	min-height: 30px;
-	line-height: 30px;
+	min-height: 20px;
+	line-height: 20px;
 	width: calc(100% - 250px);
 	word-break: normal;
 }
@@ -379,12 +379,12 @@ body div.event + div.event {
 
 body div.event span.time {
 	color: #a6b9c0;
-	line-height: 25px;
+	line-height: 18px;
 }
 
 body div.event span.message {
-	min-height: 25px;
-	line-height: 25px;
+	min-height: 20px;
+	line-height: 20px;
 	text-shadow: #fff 0px 1px;
 	padding-left: 0;
 }
