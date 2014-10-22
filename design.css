@@ -167,7 +167,7 @@ div[id=mark] {
 	z-index: 295;
 	margin-top: -1px;
 	border-bottom: 1px solid;
-	border-color: #444;
+	border-color: #999;
 	-webkit-transition: 0.2s linear;
 }
 
